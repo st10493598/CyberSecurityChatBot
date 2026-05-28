@@ -6,7 +6,7 @@ using System.Windows.Documents;
 using System.Windows.Media;
 using System.Windows.Input;
 
-namespace CybersecurityChatbotGUI
+namespace CybersecurityChatbotGUI    
 {
     public partial class MainWindow : Window
     {
