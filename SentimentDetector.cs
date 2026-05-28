@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace CybersecurityChatbotGUI
 {
-    public enum Sentiment
+    public enum Sentiment   
     {
         Neutral,
         Worried,
