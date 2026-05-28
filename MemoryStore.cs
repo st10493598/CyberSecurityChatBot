@@ -10,7 +10,7 @@ namespace CybersecurityChatbotGUI
         public string UserName { get; set; }
         public string FavouriteTopic { get; set; }
 
-        public MemoryStore()
+        public MemoryStore()    
         {
             _memory = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
             UserName = string.Empty;
