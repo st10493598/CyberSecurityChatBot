@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace CybersecurityChatbotGUI
 {
-    public class KeywordResponder
+    public class KeywordResponder   
     {
         private readonly Dictionary<string, List<string>> _responses;
         private readonly Random _random;
