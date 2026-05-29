@@ -1,4 +1,4 @@
-````markdown id="b9q7tm"
+
 
 \# 🛡️ CYBERGUARD - Cybersecurity Awareness Chatbot
 
@@ -8,7 +8,7 @@ A WPF-based interactive chatbot that educates users about cybersecurity through 
 
 
 
-\*\*Author:\*\* \[YOUR NAME]  
+\*\*Author:\*\* \Makwinja Tumelo 
 
 \*\*Student Number:\*\* ST10493598
 
@@ -54,7 +54,7 @@ A WPF-based interactive chatbot that educates users about cybersecurity through 
 
 
 
-!\[CyberGuard Chatbot](screenshot.png)
+!\[CyberGuard Chatbot](/sreenshot.png)
 
 
 
