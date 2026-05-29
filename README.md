@@ -54,7 +54,7 @@ A WPF-based interactive chatbot that educates users about cybersecurity through 
 
 
 
-!\[CyberGuard Chatbot](/sreenshot.png)
+!\[CyberGuard Chatbot](/screenshot.png)
 
 
 
