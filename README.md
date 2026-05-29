@@ -23,12 +23,6 @@ A WPF-based interactive chatbot that educates users about cybersecurity through 
 
 ---
 
-## 📸 Screenshot of Running Application
-
-![Running CYBERGUARD App](screenshot.png)
-
----
-
 ## 📋 Prerequisites
 
 - Windows 10 or 11
@@ -149,4 +143,4 @@ This chatbot uses rule-based AI techniques:
 ## 🎥 YouTube Demonstration
 
 YouTube Link:  
-[Paste Your YouTube Video Link Here]
+https://youtu.be/57c8XZF4jxI
