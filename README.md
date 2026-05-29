@@ -1,3 +1,5 @@
+````markdown id="b9q7tm"
+
 \# 🛡️ CYBERGUARD - Cybersecurity Awareness Chatbot
 
 
@@ -6,7 +8,7 @@ A WPF-based interactive chatbot that educates users about cybersecurity through 
 
 
 
-\*\*Author:\*\* Makwinja Tumelo 
+\*\*Author:\*\* \[YOUR NAME]  
 
 \*\*Student Number:\*\* ST10493598
 
@@ -48,6 +50,18 @@ A WPF-based interactive chatbot that educates users about cybersecurity through 
 
 
 
+\## 📸 Screenshot of Running GUI
+
+
+
+!\[CyberGuard Chatbot](screenshot.png)
+
+
+
+\---
+
+
+
 \## 📋 Prerequisites
 
 
@@ -70,7 +84,201 @@ A WPF-based interactive chatbot that educates users about cybersecurity through 
 
 \### Step 1: Clone the Repository
 
+
+
 ```bash
 
 git clone https://github.com/ST10493598/cybersecuritychatbot.git
+
+```
+
+
+
+\### Step 2: Open the Project
+
+
+
+Open Visual Studio 2022 and select:
+
+
+
+```text
+
+Open a project or solution
+
+```
+
+
+
+Navigate to the cloned folder and open:
+
+
+
+```text
+
+CybersecurityChatbotGUI.sln
+
+```
+
+
+
+\### Step 3: Run the Application
+
+
+
+Press:
+
+
+
+```text
+
+F5
+
+```
+
+
+
+or click:
+
+
+
+```text
+
+Start
+
+```
+
+
+
+to launch the CYBERGUARD chatbot application.
+
+
+
+\---
+
+
+
+\## 🧠 Cybersecurity Topics Supported
+
+
+
+\- Password Safety
+
+\- Phishing Attacks
+
+\- Online Scams
+
+\- Privacy Protection
+
+\- Safe Browsing
+
+\- Malware Awareness
+
+\- Software Updates
+
+
+
+\---
+
+
+
+\## 💾 Save Chat Feature
+
+
+
+The chatbot allows users to save conversation history to a `.txt` file directly on the Desktop for future reference.
+
+
+
+\---
+
+
+
+\## 🛠️ Technologies Used
+
+
+
+\- C#
+
+\- WPF
+
+\- XAML
+
+\- .NET 8
+
+\- Visual Studio 2022
+
+
+
+\---
+
+
+
+\## 🚀 Release Information
+
+
+
+\### Part 2 Initial Release
+
+\- Added WPF GUI
+
+\- Added keyword recognition
+
+\- Added random chatbot responses
+
+\- Added voice greeting
+
+\- Added ASCII art
+
+\- Added sentiment detection
+
+
+
+\### Part 2 Final Release
+
+\- Added memory storage for user name and favourite topic
+
+\- Added personalised chatbot replies
+
+\- Improved sentiment detection
+
+\- Added empathetic response openers
+
+\- Improved conversation flow
+
+
+
+\---
+
+
+
+\## ✅ GitHub Actions CI Status
+
+
+
+!\[CI Green Tick](ci-green.png)
+
+
+
+\---
+
+
+
+\## 🎥 YouTube Demonstration
+
+
+
+YouTube Link:  
+
+
+
+
+
+\---
+
+````
+
+
+
+
 
